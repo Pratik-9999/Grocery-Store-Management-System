@@ -2,7 +2,7 @@
 
 # Grocery-Store-Management-System
 
-This program has been made as a school project using Python and MySQL.
+This program has been made as a collage project using Python and MySQL.
 
 # General Instructions
 1. The database is to be created manually, tables will be created automatically after first run.
@@ -78,7 +78,3 @@ MRP int
 # Software Requrements
 1. [Python 3.9](https://www.python.org)
 2. [MySQL](https://www.mysql.com/)
-
-## License
-
-[MIT](https://choosealicense.com/licenses/mit/)
